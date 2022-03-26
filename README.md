@@ -1,16 +1,45 @@
-### Hi there 👋
+<body>
+<h1 align="center">~ 👨‍💻 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👨‍💻 ~</h1>
+<br>
+<div align="center">
+<img src="https://imgur.com/9TJpnA7.gif" style="width:500px;height:150px;">
+</div>
+<br>
+<div>
+<h2 align="center"> 🏋️‍♂️ ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🏋️‍♂️ </h2>
+<img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif" align="right" width ="480" height="150">
+<li>
+<b>Name:</b> Sinz</li>
 
-<!--
-**Sinz-onit/Sinz-onit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</li>
+<li>
+<b>Loves:</b> You! 
+</li>
+<li>
+<b>Gender:</b> Guys
+</li>
+<li>
+<b>Hobbys:</b> Gym, Watching Utube
+</li>
+<li>
+<b>Working @:</b> Student at Changwon National University
+</li>
+<br>
+<p><b>  <p align="center"> Thanks fow reading this onyee-san<br>
+</div>
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<p>
+<div align="center">
+<img src="https://media.giphy.com/media/kQ3FSVoJrkYWk/giphy.gif" align="center" width="480" height="270"  >
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://media.giphy.com/media/11pR4iyG90b6Zq/giphy.gif">
+</div>
+<hr>
+</div>
+</div>
+</body>
