@@ -31,13 +31,13 @@
 <h2 align="center"> ~ 📇 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📇 ~</h2>
 <p>
 <div align="center">
-<img src="https://media.giphy.com/media/kQ3FSVoJrkYWk/giphy.gif" align="center" width="480" height="270"  >
+<img src="https://media.giphy.com/media/kQ3FSVoJrkYWk/giphy.gif" align="center" width="400" height="200"  >
 
 
 
 <h2 align="center">💖 ~ 𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘! ~ 💖</h2>
 <div align="center">
-<img src="https://media.giphy.com/media/11pR4iyG90b6Zq/giphy.gif">
+<img src="https://media.giphy.com/media/11pR4iyG90b6Zq/giphy.gif"align="center" width="400" height="200">
 </div>
 <hr>
 </div>
