@@ -39,6 +39,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/11pR4iyG90b6Zq/giphy.gif"align="center" width="400" height="200">
 </div>
-<hr>
+
 </div>
 </body>
