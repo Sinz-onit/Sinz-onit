@@ -9,7 +9,7 @@
 <h2 align="center"> 🏋️‍♂️ ~ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ~ 🏋️‍♂️ </h2>
 <img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif" align="right" width ="480" height="150">
 <li>
-<b>Name:</b> Sinz</li>
+<b>Name:</b> SinZ</li>
 
 </li>
 <li>
