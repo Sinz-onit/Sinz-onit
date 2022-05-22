@@ -8,10 +8,10 @@
 <div>
 <h2 align="center"> 🏋️‍♂️ ~ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ~ 🏋️‍♂️ </h2>
 
-<img src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif"  width ="250" height="200" align="center">
-<li>
-<b>Name:</b> SinZ</li>
+<img src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif"  width ="300" height="150" align="right">
 
+<li>
+<b>Name:</b> SinZ
 </li>
 <li>
 <b>Loves:</b> You! 
@@ -26,8 +26,9 @@
 <b>Working @:</b> Student at Changwon National University
 </li>
 <br>
-  <p><b>  <p align="center"> Thanks for reading this onyee-san<br></p>
-</div>
+<b>  <p align="center"> Thanks for reading this onyee-san<br>
+
+
 <div>
 <h2 align="center"> ~ 📇 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📇 ~</h2>
 <p>
