@@ -25,7 +25,7 @@
 <b>Working @:</b> Student at Changwon National University
 </li>
 <br>
-<p><b>  <p align="center"> Thanks fow reading this onyee-san<br>
+<p><b>  <p align="center"> Thanks for reading this onyee-san<br>
 </div>
 <div>
 <h2 align="center"> ~ 📇 𝕂𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 📇 ~</h2>
