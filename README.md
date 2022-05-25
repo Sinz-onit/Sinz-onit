@@ -89,6 +89,6 @@
 
 <br>
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sinz-onit&bg_color=fffbdb&color=ff9494&line=6c0eb9&point=fcfcfc&area=true&hide_border=true) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sinz-onit&bg_color=fffbdb&color=ff9494&line=6c0eb9&point=fcfcfc&area=true&hide_border=true) 
  
 <hr>
