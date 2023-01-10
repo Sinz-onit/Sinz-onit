@@ -82,9 +82,9 @@
 </div>  
 <br>
 <div>
-<h2 align="center"> 💖 𝕋𝕙𝕒𝕟𝕜𝕤 𝕗𝕠𝕣 𝕣𝕖𝕒𝕕𝕚𝕟𝕘! ~ 💖</h2>
+<h2 align="center"> 💖 𝕿𝖍𝖆𝖓𝖐 𝖋𝖔𝖗 𝖛𝖎𝖘𝖙𝖎𝖓𝖌 💖</h2>
 <div align="center">
-<img src="https://c.tenor.com/hqEOPg9ZTOgAAAAC/thanks-anime.gif">
+<img src="https://media.tenor.com/XC6WMTebka0AAAAd/%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4-thank-you.gif">
 </div>
 
 
