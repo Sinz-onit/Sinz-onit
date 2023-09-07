@@ -22,7 +22,7 @@
 <b>Gender:</b> Male.
 </li>
 <li>
-<b>Hobbys:</b> C, Java, Python, Anime 🐉
+<b>Hobbys:</b>  Anime 🐉
 </li>
 <li>
 <b>Favourite song:</b> Another Love by Tom Odell.  <img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg" width="25px"/>
